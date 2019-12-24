@@ -1,0 +1,14 @@
+I:\dev\C#\sepyar\sepyar\obj\Debug\sepyar.frm_main.resources
+I:\dev\C#\sepyar\sepyar\obj\Debug\sepyar.Resources.frm_user.resources
+I:\dev\C#\sepyar\sepyar\obj\Debug\sepyar.csproj.GenerateResource.Cache
+I:\dev\C#\sepyar\sepyar\bin\Debug\sepyar.exe.config
+I:\dev\C#\sepyar\sepyar\bin\Debug\sepyar.exe
+I:\dev\C#\sepyar\sepyar\bin\Debug\sepyar.pdb
+I:\dev\C#\sepyar\sepyar\obj\Debug\sepyar.Properties.Resources.resources
+I:\dev\C#\sepyar\sepyar\obj\Debug\sepyar.exe
+I:\dev\C#\sepyar\sepyar\obj\Debug\sepyar.pdb
+I:\dev\C#\sepyar\sepyar\obj\Debug\sepyar.csprojResolveAssemblyReference.cache
+I:\dev\C#\sepyar\sepyar\obj\Debug\sepyar.program.Class.pic_mnu_cmd.resources
+I:\dev\C#\sepyarcloun\sepyar\bin\Debug\sepyar.exe.config
+I:\dev\C#\sepyarcloun\sepyar\obj\Debug\sepyar.exe
+I:\dev\C#\sepyarcloun\sepyar\obj\Debug\sepyar.pdb
